@@ -1,1 +1,1 @@
-web: gunicorn ecomsite.wsgi --log-file - --log-level debug
+web: gunicorn ecomsite.wsgi:application --log-file - --log-level debug
