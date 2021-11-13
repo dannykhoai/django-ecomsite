@@ -7,7 +7,9 @@ A quick take on working with a Web framework on Python: Fast and easy seems easy
 Ecommerce site draft page generated with Django, Bootstrap5 and Jquery. 
 Logical part for "Add to cart" option is in Javascript: using browser localStorage to store cart data and pass it to other page.
 
-## H2 How to start
+## How to start
 Clone the repo
-`cd ecomenv
-source bin/activate`
+In terminal:
+`cd ecomenv`
+then
+`source bin/activate`
